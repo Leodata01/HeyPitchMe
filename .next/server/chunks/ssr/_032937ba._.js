@@ -30,12 +30,12 @@ function Home() {
             children: "Hey Pitch Me is arriving soon"
         }, void 0, false, {
             fileName: "[project]/src/app/page.tsx",
-            lineNumber: 6,
+            lineNumber: 4,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/page.tsx",
-        lineNumber: 5,
+        lineNumber: 3,
         columnNumber: 5
     }, this);
 }
